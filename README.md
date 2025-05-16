@@ -4,7 +4,8 @@ This project explores a dataset of social media influencers using Python. It foc
 
 ---
 <img width="689" alt="Sample Image" src="https://github.com/user-attachments/assets/31db4f9f-9dc1-4ff0-a17e-f83d0cc38ac1" />
-----
+
+------------
 ## 🔍 Project Objectives
 
 - Clean and preprocess the raw influencer data
